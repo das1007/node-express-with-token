@@ -14,5 +14,12 @@ Node with token CRUd Operation
 	But first login after then get all data you can use this url to login on postman tool "http://localhost:3030/api/user/login".
 	
 # Create Database and set .env file
+
+	APP_PORT = 3030
+	DB_PORT = 3306
+	DB_HOST = localhost
+	DB_USER = root
+	DB_PASS = root
+	MYSQL_DB = demo
 	
 	Also table create and add some field (firstname , lastname , gender , email , password , number).
