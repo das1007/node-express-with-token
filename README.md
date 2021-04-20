@@ -6,7 +6,7 @@ Node with token CRUd Operation
 	
 	Also table create and add some field (firstname , lastname , gender , email , password , number) in table.
 
-# .env example file copy / change file name like .env 
+# .env example file copy / change file name like .env set below data
 	APP_PORT = 3030
 	DB_PORT = 3306
 	DB_HOST = localhost
